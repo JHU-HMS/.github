@@ -23,7 +23,7 @@ All of our research output is transparent (open source) and reproducible. Any fi
     * Published GitHub repo at [sbom-transparency](https://github.com/JHU-HMS/sbom-transparency).
 
 ## People
-Please see [people.md](./[people.md) for current lab members and alums. 
+Please see [people.md](./people.md) for current lab members and alums. 
 
 ## Publications
 Please see [publications.md](./publications.md) for a list of publications from the HMS lab.
