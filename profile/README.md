@@ -3,9 +3,9 @@
 ## Who we are
 The Health and Medical Security (HMS) Lab at Johns Hopkins University conducts cybersecurity research focused on protecting patient safety and strengthening trust in modern healthcare technologies.
 
-The HMS Lab was founded more than a decade ago under Professor Emeritus Avi Rubin, pioneering research at the intersection of security and medicine.
+The HMS Lab was founded more than a [decade ago](https://web.archive.org/web/20201026152909/http://hms.isi.jhu.edu/index.php/people.html) under Professor Emeritus [Avi Rubin](https://avirubin.com/), pioneering research at the intersection of security and medicine.
 
-Today, the lab has been renewed under Dr. Michael Rushanan, bringing industry-facing insight into medical device security engineering, software supply chain risk (including SBOMs), applied cryptography, and hands-on “break it to build it” security education.
+Today, the lab has been renewed under [Dr. Michael Rushanan](https://michaelrushanan.org/), bringing industry-facing insight into medical device security engineering, software supply chain risk (including SBOMs), applied cryptography, and hands-on “break it to build it” security education.
 
 ## Mission
 The HMS Lab advances the security, safety, and resilience of health technologies through rigorous, hands-on cybersecurity research and education. We build practical tools and evidence-driven insights to help manufacturers, clinicians, regulators, and researchers design medical systems that are secure-by-design.
