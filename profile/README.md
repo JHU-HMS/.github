@@ -23,10 +23,10 @@ All of our research output is transparent (open source) and reproducible. Any fi
     * Published GitHub repo at [sbom-transparency](https://github.com/JHU-HMS/sbom-transparency).
 
 ## People
-Please see [People.md](./alumni.md) for current lab members and alums. 
+Please see [people.md](./[people.md) for current lab members and alums. 
 
 ## Publications
-Please see [Publications.md](./publications.md) for a list of publications from the HMS lab.
+Please see [publications.md](./publications.md) for a list of publications from the HMS lab.
     
 ## Contact Us
 Please contact **Dr. Michael Rushanan** (Principal Investigator) at **[mrushan1@jh.edu](mailto:mrushan1@jh.edu)** for any questions.
