@@ -13,7 +13,7 @@ The HMS Lab advances the security, safety, and resilience of health technologies
 All of our research output is transparent (open source) and reproducible. Any findings that may impact patient safety are managed through responsible disclosure procedures before releasing public artifacts.
 
 ## Latest News
-* Kaixin, Dibyajyoti, Ramit, Zhicheng to present "[A Hands-On Platform for Medical Device Security Education](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-posters/)" at SIGCSE'25 (Feb 19, 2026, St. Louis, MI).
+* Kaixin, Dibyajyoti, Ramit, Zhicheng presented at "[A Hands-On Platform for Medical Device Security Education](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-posters/)" at SIGCSE'25 (Feb 19, 2026, St. Louis, MI).
     * Published GitHub repo at [medical-device-education-platform](https://github.com/JHU-HMS/medical-device-education-platform).
 * Jiarou and Mandy presented “[A Zero-Knowledge Framework for Confidential and Verifiable SBOM Validation](https://www.acsac.org/2025/program/posters/)” at ACSAC 2025 (Dec 8–12, 2025, Honolulu, HI).
     * Published GitHub repo at [zkp-sbom-framework](https://github.com/JHU-HMS/zkp-sbom-framework).
